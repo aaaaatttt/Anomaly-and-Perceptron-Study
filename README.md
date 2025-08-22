@@ -1,6 +1,6 @@
 # Anomaly-and-Perceptron-Study
 
-This repository contains the Jupyter notebook `template.ipynb` for Anomaly-and-Perceptron-Study, which is divided into two parts:
+This repository contains the Jupyter notebook `Anomaly-and-Perceptron-Study.ipynb` for Anomaly-and-Perceptron-Study, which is divided into two parts:
 
 ##  Part 1: Anomaly Detection
 Anomaly detection using:
@@ -40,3 +40,4 @@ Before running the notebook, install the required Python packages:
 
 ```bash
 pip install pandas numpy scikit-learn matplotlib
+
